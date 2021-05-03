@@ -10,5 +10,5 @@ My name is **Anas Dalalah**, I am 25 years old, I have a bleacher degree in Elec
 | ----------- | ----------- |
 | Growth Mindset    | [Lab01-Link](https://anasdalalaah.github.io/reading-notes/Lab01)       |
 |Read01 | [Read01-Link](https://anasdalalaah.github.io/reading-notes/Read01)        |
-| Read02|[Read02-Link]()|
+| Read02|[Read02-Link](https://anasdalalaah.github.io/reading-notes/Read02)|
   
