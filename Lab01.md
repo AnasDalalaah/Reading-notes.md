@@ -6,7 +6,7 @@
 - A growth mindset is just about praising and rewarding effort.
 - Just espouse a growth mindset, and good things will happen.
 
-
+ 
 
 ### for further details go to this [link](https://en.wikipedia.org/wiki/Mindset)
 
