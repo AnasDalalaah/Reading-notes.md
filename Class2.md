@@ -46,7 +46,7 @@ Comparison Operators:
 
 Logical operators allow you to combine more than one set of comparison operators.
 
-If statements
+If statements & else statements.
 
 
 
