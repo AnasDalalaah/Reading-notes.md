@@ -68,5 +68,32 @@ width: 450px;}
 
 A JavaScript function is a block of code designed to perform a particular task.
 
+```
+function A(M1, M2) {
+  return M1 * M2;   // The function returns the product of p1 and p2
+}
+```
+* JavaScript Function Syntax:
+A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses ().
 
+Function names can contain letters, digits, underscores, and dollar signs (same rules as variables).
+
+* JavaScript Object Methods:
+
+This example accesses the fullName() method of a person object.
+
+```
+var myCar = new Object();
+myCar.make = 'Ford';
+myCar.model = 'Mustang';
+myCar.year = 1969;
+```
+
+## 6 Reasons for Pair Programming:
+1. Greater Efficiency
+2. Engaged Collaboration
+3. Learning from fellow students
+4. Social skills
+5. Job interview readiness
+6. Work environment readiness
 
