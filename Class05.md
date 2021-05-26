@@ -19,6 +19,7 @@ marsupial that is similar in size to the
 domestic cat." />
 
 ```
+
 * Height & Width of Images:
 
   * height
