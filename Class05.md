@@ -5,6 +5,7 @@ A picture can say a thousand words, and great images help make the difference be
 average-looking site and a really engaging one.
 
 * Adding Images:
+
 ```
 <img>: To add an image into the page you need to use an <img>
 element.
@@ -29,21 +30,23 @@ This specifies the height of the image in pixels.
 This specifies the width of the image in pixels
 
 ex:
+
 ```
 <img src="images/quokka.jpg" alt="A family of
 quokka" width="600" height="450" />
 
 ```
+
 * Aligning Images Horizontally:
 
 ex: 
+
 ```
 <img src="images/bird.gif" alt="Bird" width="100"
 height="100" align="left" />
 
 <img src="images/bird.gif" alt="Bird" width="100"
 height="100" align="right" />
-
 ```
 
 ## Color:
