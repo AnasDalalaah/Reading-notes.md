@@ -1,6 +1,7 @@
 # HTML Images; CSS Color & Text:
 
 ## Images:
+
 A picture can say a thousand words, and great images help make the difference between an
 average-looking site and a really engaging one.
 
@@ -9,16 +10,13 @@ average-looking site and a really engaging one.
 ```
 <img>: To add an image into the page you need to use an <img>
 element.
-
 <src>
 This tells the browser where it can find the image file.
-
 ex:
 <img src="images/quokka.jpg" alt="A family of
 quokka" title="The quokka is an Australian
 marsupial that is similar in size to the
 domestic cat." />
-
 ```
 
 * Height & Width of Images:
