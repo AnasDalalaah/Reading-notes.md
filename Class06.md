@@ -21,6 +21,7 @@ Functions can return more than one value using an array.
 For example, this function calculates the area and volume of a box.
 
 ex:
+
 ```
 function getSize (width, height, depth) {
 var area = width * height;
@@ -43,6 +44,7 @@ The model is called a DOM tree, and it is stored in the browsers' memory.
 It consists of four main types of nodes.
 
 * USING WHILE LOOPS:
+
 ex:
 ```
 
@@ -63,9 +65,8 @@ ex:
 var el = document.getElementByid('one');
 II Change the value of the class attribute.
 el.className ='cool ' ;
-
-
 ```
+
 * TRAVERSING THE DOM:
   * parentNode
   * previousSibling nextSibling
@@ -74,6 +75,7 @@ el.className ='cool ' ;
 * FlRST & LAST CHILD:
 
 ex:
+
 ```
 var startltem = document.getElementsByTagName('ul ') [OJ ;
 var firstltem = startltem. firstChild;
