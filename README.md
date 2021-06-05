@@ -25,17 +25,17 @@ My name is **Anas Dalalah**, I am 25 years old, I have a bleacher degree in Elec
 
 | Assigment   | Links |
 | ----------- | ----------- |
-| Read 01 | [Read01](https://anasdalalaah.github.io/reading-notes/Read01-201)|
-| Read 02 | [Read02](https://anasdalalaah.github.io/reading-notes/Class2)|
-| Read 03 | [Read03](https://anasdalalaah.github.io/reading-notes/Class03) |
-| Read 04 | [Read04](https://anasdalalaah.github.io/reading-notes/Class04) |
-| Read 05 | [Read05](https://anasdalalaah.github.io/reading-notes/Class05) |
-| Read 06 | [Read06](https://anasdalalaah.github.io/reading-notes/Class06) |
-| Read 07 | [Read07](https://anasdalalaah.github.io/reading-notes/Classes) |
-| Read 08 |  [Read08](https://anasdalalaah.github.io/reading-notes/Classe08)|
-| Read 09 | [Read09](https://anasdalalaah.github.io/reading-notes/Class09) |
-| Read 10 | [Read010](https://anasdalalaah.github.io/reading-notes/Claass10) |
-| Read 11 |  |
+| Read 01 | [Read 01](https://anasdalalaah.github.io/reading-notes/Read01-201)|
+| Read 02 | [Read 02](https://anasdalalaah.github.io/reading-notes/Class2)|
+| Read 03 | [Read 03](https://anasdalalaah.github.io/reading-notes/Class03) |
+| Read 04 | [Read 04](https://anasdalalaah.github.io/reading-notes/Class04) |
+| Read 05 | [Read 05](https://anasdalalaah.github.io/reading-notes/Class05) |
+| Read 06 | [Read 06](https://anasdalalaah.github.io/reading-notes/Class06) |
+| Read 07 | [Read 07](https://anasdalalaah.github.io/reading-notes/Classes) |
+| Read 08 |  [Read 08](https://anasdalalaah.github.io/reading-notes/Classe08)|
+| Read 09 | [Read 09](https://anasdalalaah.github.io/reading-notes/Class09) |
+| Read 10 | [Read 10](https://anasdalalaah.github.io/reading-notes/Claass10) |
+| Read 11 | [Read 11](https://anasdalalaah.github.io/reading-notes/Class11)  |
 | Read 12 |  |
 | Read 13 |  |
 | Read 14 |  |
