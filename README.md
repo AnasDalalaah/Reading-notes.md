@@ -49,7 +49,7 @@ My name is **Anas Dalalah**, I am 25 years old, I have a bleacher degree in Elec
 
 | Assigment   | Links |
 | ----------- | ----------- |
-| Read 01 | |
+| Read 01 | https://anasdalalaah.github.io/reading-notes/Read01-301|
 | Read 02 | |
 | Read 03 | |
 | Read 04 | |
