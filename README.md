@@ -71,7 +71,7 @@ My name is **Anas Dalalah**, I am 25 years old, I have a bleacher degree in Elec
 
 | Assigment   | Links |
 | ----------- | ----------- |
-| Read 01 |[Read 01]|
+| Read 01 |[Read 01](https://anasdalalaah.github.io/reading-notes/Java01)|
 | Read 02 |[Read 02] |
 | Read 03 |[Read 03]|
 | Read 04 | [Read 04]|
