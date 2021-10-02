@@ -6,7 +6,8 @@ which are the different ways that we can organize our data; variables, arrays, h
 
 means that there is a sequence and an order to how the data are constructed.
 
-![liner](../img401/liner.png)
+![Java5(1)](https://user-images.githubusercontent.com/83537198/135721927-f381610c-2d6f-42b1-93be-468035dcb082.png)
+
 
 **[Memory management]**
 
@@ -28,8 +29,8 @@ There are two types of Linked List:
 - **Doubly**: refers to there being two (double) references within the node.
 
 - **circular linked list**: it has a node that acts as the tail of the list (rather than the conventional head node), and the node after the tail node is the beginning of the list.
+![Java5(2)](https://user-images.githubusercontent.com/83537198/135721934-291fa9d8-aab0-44dc-bb6c-442fe0b5a567.jpeg)
 
-![type of linked list](../img401/typeLinkedList.jpeg)
 
 `Head` ---> Reference of type Node to the first node in a linked list.
 
