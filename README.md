@@ -80,7 +80,7 @@ My name is **Anas Dalalah**, I am 25 years old, I have a bleacher degree in Elec
 | Read 07 |[Read 07]  |
 | Read 08 | [Read 08](https://anasdalalaah.github.io/reading-notes/Java08)|
 | Read 09 |[Read 09](https://anasdalalaah.github.io/reading-notes/Java09)|
-| Read 10 |[Read 10] |
+| Read 10 |[Read 10](https://anasdalalaah.github.io/reading-notes/Java09|
 | Read 10 |[Read 11] |
 | Read 10 |[Read 12] |
-| Read 10 |[Read 13] |
+| Read 10 |[Read 13](https://anasdalalaah.github.io/reading-notes/Java13)|
