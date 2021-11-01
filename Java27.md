@@ -33,3 +33,19 @@ When the current activity starts another, the new activity is pushed on the top 
  - `taskAffinity` - `launchMode` - `allowTaskReparenting` - `clearTaskOnLaunch` - `alwaysRetainTaskState` - `finishOnTaskLaunch`
  #### And the principal intent flags you can use are:
  - `FLAG_ACTIVITY_NEW_TASK` - `FLAG_ACTIVITY_CLEAR_TOP` - `FLAG_ACTIVITY_SINGLE_TOP` 
+
+
+### Defining launch modes,ways :
+
+1. **Using the manifest file**
+When you declare an activity in your manifest file, you can specify how the activity should associate with tasks when it starts.
+
+2. **Using Intent flags**
+When you call startActivity(), you can include a flag in the Intent that declares how (or whether) the new activity should associate with the current task.
+
+## [Android SharedPreferences](https://developer.android.com/training/data-storage/shared-preferences) 
+- **Shared Preferences:** Is to Save data as key-value pairs.
+ ### You can create a new shared preference file or access an existing one by calling one of these methods: 
+- **getSharedPreferences()** — Use this if you need multiple shared preference files identified by name, which you specify with the first parameter.
+ You can call this from any Context in your app.
+
