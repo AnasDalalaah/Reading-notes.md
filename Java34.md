@@ -23,4 +23,4 @@ Items that require developers to use Google Play's billing system include the fo
 - Subscription services: such as streaming media.
 - Cloud software products: including data storage services
 
-[!pay](https://developer.android.com/images/distribute/best-practices/earn/pay.png)
+[pay](https://developer.android.com/images/distribute/best-practices/earn/pay.png)
